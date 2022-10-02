@@ -77,7 +77,7 @@ namespace Mixingstrings
             string phrase2 = "my friend John has many many friends &";
             Console.WriteLine(Mix(phrase1, phrase2));
             Console.ReadKey();
-
+         //Коментар
 
         }
     }

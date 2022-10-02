@@ -5,3 +5,10 @@ D:\Desktop\4 курс\До-дієз\Mixingstrings\obj\Debug\Mixingstrings.csproj
 D:\Desktop\4 курс\До-дієз\Mixingstrings\obj\Debug\Mixingstrings.csproj.CoreCompileInputs.cache
 D:\Desktop\4 курс\До-дієз\Mixingstrings\obj\Debug\Mixingstrings.exe
 D:\Desktop\4 курс\До-дієз\Mixingstrings\obj\Debug\Mixingstrings.pdb
+D:\Desktop\4курс\До-дієз\Mixingstrings\bin\Debug\Mixingstrings.exe.config
+D:\Desktop\4курс\До-дієз\Mixingstrings\bin\Debug\Mixingstrings.exe
+D:\Desktop\4курс\До-дієз\Mixingstrings\bin\Debug\Mixingstrings.pdb
+D:\Desktop\4курс\До-дієз\Mixingstrings\obj\Debug\Mixingstrings.csprojAssemblyReference.cache
+D:\Desktop\4курс\До-дієз\Mixingstrings\obj\Debug\Mixingstrings.csproj.CoreCompileInputs.cache
+D:\Desktop\4курс\До-дієз\Mixingstrings\obj\Debug\Mixingstrings.exe
+D:\Desktop\4курс\До-дієз\Mixingstrings\obj\Debug\Mixingstrings.pdb
